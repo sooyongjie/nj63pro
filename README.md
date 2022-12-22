@@ -1,3 +1,4 @@
+# NJ63 Pro User Manual
 ## Operating Instructions
 
 - To use the keyboard in wired mode, flip the switch to OFF and plug in the cable
