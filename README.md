@@ -1,4 +1,10 @@
 # NJ63 Pro User Manual
+User manual of the Mojo 60 clone.
+
+Click [here](https://detail.tmall.com/item_o.htm?abbucket=4&id=675678719736&ns=1&spm=a230r.1.14.16.77d953eeJkBKde&sku_properties=5919063:6536025) for product page or [here](https://agent.aliprice.com/shopping/itemDetail/platfrom/taobao/sku_id/683199961532.html) if you do not have a Taobao account. 
+
+[![N|Solid](https://img.alicdn.com/bao/uploaded/i4/O1CN01zcpUY51V0Gbm0udHs_!!0-rate.jpg_400x400.jpg)](https://img.alicdn.com/bao/uploaded/i4/O1CN01zcpUY51V0Gbm0udHs_!!0-rate.jpg) <br>
+
 ## Operating Instructions
 
 - To use the keyboard in wired mode, flip the switch to OFF and plug in the cable
