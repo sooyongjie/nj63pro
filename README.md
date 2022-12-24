@@ -70,8 +70,8 @@ Wireless mode:
 | FN + ; | RGB effect |
 | FN + ↓ | Backlight Brightness - |
 | FN + ↑ | Backlight Brightness + |
-| FN + ← | Backlight Effect Speed + |
-| FN + → | Backlight Effect Speed - |
+| FN + → | Backlight Effect Speed + |
+| FN + ← | Backlight Effect Speed - |
 | FN + " | Backlight Color Change |
 | FN + K | Underglow Color Change|
 | FN + L | Underglow Brightness + |
